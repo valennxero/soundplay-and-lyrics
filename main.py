@@ -12,7 +12,7 @@ def run_lyrics():
     ("Well, if you carry on this way",0.1),
     ("Things are better if I stay",0.1),
     ("So long and goodnight",0.1),
-    ("So long and goodnight",0.1),
+    ("So long and goodnight",0.2),
     ]
   delay = [1.7, 1.2, 1.1, 1.6, 1.1, 1, 1, 0.7, 1.2]
   print("\nHelena - My Chemical Romance", "\n")
